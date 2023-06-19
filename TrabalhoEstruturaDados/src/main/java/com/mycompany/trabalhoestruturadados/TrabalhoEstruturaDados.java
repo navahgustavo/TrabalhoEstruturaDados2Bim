@@ -16,6 +16,7 @@ import javax.swing.JTextArea;
 /**
  *
  * @author Gustavo H. Nava
+ * @author Maria E. Nava
  */
 public class TrabalhoEstruturaDados {
 
